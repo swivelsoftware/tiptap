@@ -36,6 +36,9 @@
     <router-link class="subnavigation__link" to="/code-highlighting">
       Code Highlighting
     </router-link>
+    <router-link class="subnavigation__link" to="/alignment">
+      Alignment
+    </router-link>
     <router-link class="subnavigation__link" to="/history">
       History
     </router-link>

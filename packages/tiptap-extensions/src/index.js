@@ -16,6 +16,7 @@ export { default as TableRow } from './nodes/TableRow'
 export { default as TodoItem } from './nodes/TodoItem'
 export { default as TodoList } from './nodes/TodoList'
 
+export { default as Alignment } from './marks/Alignment'
 export { default as Bold } from './marks/Bold'
 export { default as Code } from './marks/Code'
 export { default as Italic } from './marks/Italic'

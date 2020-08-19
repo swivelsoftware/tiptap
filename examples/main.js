@@ -96,6 +96,13 @@ const routes = [
     },
   },
   {
+    path: '/alignment',
+    component: () => import('Components/Routes/Alignment'),
+    meta: {
+      githubUrl: 'https://github.com/ueberdosis/tiptap/tree/main/examples/Components/Routes/Auggestions',
+    },
+  },
+  {
     path: '/history',
     component: () => import('Components/Routes/History'),
     meta: {
